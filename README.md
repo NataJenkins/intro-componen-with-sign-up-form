@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [https://github.com/NataJenkins/single-price-grid-component](https://github.com/NataJenkins/single-price-grid-component)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://profound-cheesecake-196a2e.netlify.app](https://profound-cheesecake-196a2e.netlify.app)
 
 ## My process
 
